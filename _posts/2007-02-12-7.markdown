@@ -1,0 +1,8 @@
+--- 
+wordpress_id: "7"
+layout: blog_post
+title: Yet Another Blogging Software
+wordpress_url: http://wrevolution.org/?p=7
+---
+Yet another blogging software tryout.  This is the <a href="http://projects.j-prosolution.com/projects/os-projects/project-openwp.html">OpenWordpress</a> plugin for <a href="http://www.joomla.org/">Joomla</a>.
+So far, it seems to work ok.  The other plugin that I'm using from <a href="http://www.j-prosolution.com">Joom proSolution</a> is <a href="http://projects.j-prosolution.com/projects/os-projects/project-openwiki.html">OpenWiki</a>, and that seems to be working fine too.  Not perfect solutions, but still good work.

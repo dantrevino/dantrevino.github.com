@@ -1,0 +1,7 @@
+--- 
+wordpress_id: "71"
+layout: blog_post
+title: vaca
+wordpress_url: http://wrevolution.org/2007/10/20/vaca/
+---
+On vacation from 10 October to 7 November.  Missing the Gutsy release!!! 

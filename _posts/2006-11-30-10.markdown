@@ -1,0 +1,10 @@
+--- 
+wordpress_id: "10"
+layout: blog_post
+title: SCO is toast
+wordpress_url: http://wrevolution.org/?p=10
+---
+Its a little premature to call SCO toast, but this is a huge setback in a string of setbacks for their frivolous lawsuit.
+<blockquote>Kimball Rules: SCO's Objections Denied! Wells's Order Affirmed - Novell Goes 1st.
+" What does it mean? It means SCO is toast."</blockquote>
+<a href="http://www.groklaw.net/article.php?story=20061129165103775">Here</a> is a link to the original article
