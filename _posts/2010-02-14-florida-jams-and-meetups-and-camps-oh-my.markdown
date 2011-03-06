@@ -4,10 +4,10 @@ layout: blog_post
 title: "Florida: Jams and Meetups and Camps! Oh My!"
 wordpress_url: http://wrevolution.org/?p=492
 ---
-We had a great LoCo team meeting Tuesday night. Â We usually do.
+We had a great LoCo team meeting Tuesday night. We usually do.
 
-The Ubuntu Global Jam is approaching, and in Florida organization is underway. Â It looks like we may be able to hit <a href="http://wrevolution.org/2010/02/03/congrats-huats-back-in-the-ubu-groove/">my previously stated goal</a> of having 5 Jams here in Florida. Â So far we have definite plans in Gainesville and Orlando, and we have team members who have stepped up to start organizing in Miami/Ft. Lauderdale and Tampa. Â Nothing to confirm on the last two yet, but we're making headway. Â We also have team members who have already started pre-planning for <a href="https://wiki.ubuntu.com/FloridaTeam/Projects/LucidReleaseParties">Lucid Release Parties</a>!
+The Ubuntu Global Jam is approaching, and in Florida organization is underway. It looks like we may be able to hit <a href="http://wrevolution.org/2010/02/03/congrats-huats-back-in-the-ubu-groove/">my previously stated goal</a> of having 5 Jams here in Florida.  So far we have definite plans in Gainesville and Orlando, and we have team members who have stepped up to start organizing in Miami/Ft. Lauderdale and Tampa.  Nothing to confirm on the last two yet, but we're making headway.  We also have team members who have already started pre-planning for <a href="https://wiki.ubuntu.com/FloridaTeam/Projects/LucidReleaseParties">Lucid Release Parties</a>!
 
-With <a href="http://2010.fldrupalcamp.org/">DrupalCamp</a>, <a href="http://carsonified.com/">FOWA</a>, <a href="http://www.barcamporlando.org/">BarCamp Orlando</a>, Â and <a href="http://barcampmiami10.eventbrite.com/">BarCamp Miami</a> coming up, in addition to our regular <a href="http://www.meetup.com/SpaceCoast-Linux">meetups</a> and <a href="http://www.meetup.com/Tampa-Linux/calendar/12044764/">public service</a>, its going to be a busy couple of months!
+With <a href="http://2010.fldrupalcamp.org/">DrupalCamp</a>, <a href="http://carsonified.com/">FOWA</a>, <a href="http://www.barcamporlando.org/">BarCamp Orlando</a>,  and <a href="http://barcampmiami10.eventbrite.com/">BarCamp Miami</a> coming up, in addition to our regular <a href="http://www.meetup.com/SpaceCoast-Linux">meetups</a> and <a href="http://www.meetup.com/Tampa-Linux/calendar/12044764/">public service</a>, its going to be a busy couple of months!
 
 We'll be out there advocating, installing, supporting, and learning!

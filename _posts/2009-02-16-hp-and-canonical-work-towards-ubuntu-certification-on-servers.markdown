@@ -4,7 +4,7 @@ layout: blog_post
 title: HP and Canonical work towards Ubuntu certification on servers
 wordpress_url: http://wrevolution.org/2009/02/16/hp-and-canonical-work-towards-ubuntu-certification-on-servers/
 ---
-Great news on the Ubuntu server front.Â  Canonical has announced that they are working with HP to have Ubuntu certified on ProLiant servers.Â  This just adds another level of assurance to Canonical's commitment to Ubuntu in the enterprise.
+Great news on the Ubuntu server front.  Canonical has announced that they are working with HP to have Ubuntu certified on ProLiant servers.  This just adds another level of assurance to Canonical's commitment to Ubuntu in the enterprise.
 
 http://blog.canonical.com/?p=122
 

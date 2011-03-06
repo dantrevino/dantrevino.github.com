@@ -102,5 +102,5 @@ By these and other means, we commit ourselves to the revolution that liberates t
 1  The free software movement has used programmers throughout the world--paid and unpaid--since the early 1980s to create the GNU/Linux operating system and related software that can be copied, modified and redistributed by all its users. This technical environment, now ubiquitous and competitively superior to the proprietary software industry's products, frees computer users from the monopolistic form of technological control that was to have dominated the personal computer revolution as capitalism envisioned it. By displacing the proprietary production of the most powerful monopoly on earth, the free software movement shows that associations of digital workers are capable of producing better goods, for distribution at nominal cost, than capitalist production can achieve despite the vaunted ``incentives'' created by ownership and exclusionary ``intellectual property'' law.
 
 
-Â©Eben Moglen, 2003               Send a comment               PostScript               PDF
+©Eben Moglen, 2003               Send a comment               PostScript               PDF
 Verbatim copying and distribution of this entire article is permitted in any medium, provided this notice is preserved. 
