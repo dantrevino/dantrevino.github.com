@@ -81,7 +81,7 @@ Explanations :
 <h5>Compress .avi to divx</h5>
 <pre>ffmpeg -i video_origine.avi -s 320x240 -vcodec msmpeg4v2 video_finale.avi</pre>
 <h5>Compress Ogg Theora to Mpeg dvd</h5>
-<pre>ffmpeg -i film_sortie_cinelerra.ogm -s 720x576 -vcodec mpeg2video -acodec mp3 film_terminÃ©e.mpg</pre>
+<pre>ffmpeg -i film_sortie_cinelerra.ogm -s 720x576 -vcodec mpeg2video -acodec mp3 film_termine.mpg</pre>
 <h5>Compress .avi to SVCD mpeg2</h5>
 NTSC format:
 <pre>ffmpeg -i video_origine.avi -target ntsc-svcd video_finale.mpg</pre>
