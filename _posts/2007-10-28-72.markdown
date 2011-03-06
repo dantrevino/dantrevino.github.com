@@ -7,5 +7,3 @@ wordpress_url: http://wrevolution.org/2007/10/28/72/
 Andy Updegrove, in his excellent Standards Blog, points out the continuing damage done by microsoft's exceedingly unethical attempts at getting their incomplete, poorly documented, document spec approved as an ISO standard.
 
 Congratulations, Microsoft.  You've taken a respected standards body and turned it into paralyzed joke.
-
-<em>updated: modified title</em>
