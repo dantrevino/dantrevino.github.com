@@ -8,6 +8,4 @@ Enjoying Florida again. Hurricane Florence wasnt much trouble for us, but others
 
 On a lighter note, my old camera is gone, my new SD based camera is here. :)
 
-
-
 Trips to San Antonio, Dallas, and Vancouver, WA coming up. 
