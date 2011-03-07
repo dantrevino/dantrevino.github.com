@@ -1,56 +1,12 @@
 ---
 layout: default
-title: dant.org
+title: Dan Trevino
 ---
+<p>
+{% for post in site.posts limit:5 %}
+<h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+{{ post.content }}
+<em>Posted on {{ post.date | date_to_long_string }}.</em>
+{% endfor %}
+</p>
 
-<!doctype html>
-<html lang="en">
-
-<head>
-	<meta charset="utf-8"/>
-	<title>{ title }</title>
-
-	<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-
-	<!-- The 1140px Grid -->
-	<link rel="stylesheet" href="css/1140.css" type="text/css" media="screen" />
-	
-	<!--[if lte IE 9]>
-	<link rel="stylesheet" href="css/ie.css" type="text/css" media="screen" />
-	<![endif]-->
-	
-	<!-- Type and image presets - NOT ESSENTIAL -->
-	<link rel="stylesheet" href="css/typeimg.css" type="text/css" media="screen" />
-	<!-- Make minor type adjustments for 1024 monitors -->
-	<link rel="stylesheet" href="css/smallerscreen.css" media="only screen and (max-width: 1023px)" />
-	<!-- Resets grid for mobile -->
-	<link rel="stylesheet" href="css/mobile.css" media="handheld, only screen and (max-width: 767px)" />
-	<!-- Put your layout here -->
-	<link rel="stylesheet" href="css/layout.css" type="text/css" media="screen" />
-
-</head>
-
-
-<body>
-
-<div class="container">
-	<div class="row">
-		<div class="elevencol">
-			<p>
-			{% for post in site.posts limit:5 %}
-            <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-            {{ post.content }}
-            <em>Posted on {{ post.date | date_to_long_string }}.</em>
-            {% endfor %}
-			</p>
-		</div>
-		<div class="onecol last">
-			<p>right nav</p>
-		</div>
-	</div>
-</div>
-
-
-</body>
-
-</html>

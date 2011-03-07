@@ -1,17 +1,35 @@
-<!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+<!doctype html>
+<html lang="en">
+
 <head>
-    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
-    <title>{{ page.title }}</title>
+	<meta charset="utf-8"/>
+	<title>{{ page.title }}</title>
+
+	<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
     <meta name="author" content="Dan Trevino" />
     <link href="http://feeds.feedburner.com/dan-trevino" rel="alternate" title="Dan Trevino" type="application/atom+xml" />
-
+	<!-- The 1140px Grid -->
+	<link rel="stylesheet" href="css/1140.css" type="text/css" media="screen" />
+	
+	<!--[if lte IE 9]>
+	<link rel="stylesheet" href="css/ie.css" type="text/css" media="screen" />
+	<![endif]-->
+	
+	<!-- Type and image presets - NOT ESSENTIAL -->
+	<link rel="stylesheet" href="css/typeimg.css" type="text/css" media="screen" />
+	<!-- Make minor type adjustments for 1024 monitors -->
+	<link rel="stylesheet" href="css/smallerscreen.css" media="only screen and (max-width: 1023px)" />
+	<!-- Resets grid for mobile -->
+	<link rel="stylesheet" href="css/mobile.css" media="handheld, only screen and (max-width: 767px)" />
+	<!-- Put your layout here -->
+	<link rel="stylesheet" href="css/layout.css" type="text/css" media="screen" />
     <!-- syntax highlighting CSS -->
     <link rel="stylesheet" href="/css/syntax.css" type="text/css" />
-    <!-- Homepage CSS -->
-    <link rel="stylesheet" href="/css/screen.css" type="text/css" media="screen, projection" />
+
 </head>
 <body>
+<div class="container">
 {{ content }}
+</div>
 </body>
 </html>
