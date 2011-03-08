@@ -1,0 +1,96 @@
+--- 
+wordpress_id: "490"
+layout: blog_post
+title: ffmpeg commands
+wordpress_url: http://wrevolution.org/?p=490
+---
+Found this nice summary of ffmpeg commands on catswhocode.com:
+<a href="http://www.catswhocode.com/blog/19-ffmpeg-commands-for-all-needs"> http://www.catswhocode.com/blog/19-ffmpeg-commands-for-all-needs</a>
+
+--
+# Ffmpeg
+<h5>Getting infos from a video file</h5>
+<pre>ffmpeg -i video.avi</pre>
+<h5>Turn X images to a video sequence</h5>
+<pre>ffmpeg -f image2 -i image%d.jpg video.mpg</pre>
+This command will transform all the images from the current
+directory (named image1.jpg, image2.jpg, etcâ€¦) to a video file named
+video.mpg.
+<h5>Turn a video to X images</h5>
+<pre>ffmpeg -i video.mpg image%d.jpg</pre>
+This command will generate the files named image1.jpg, image2.jpg, â€¦
+
+The following image formats are also availables : PGM, PPM, PAM, PGMYUV, JPEG, GIF, PNG, TIFF, SGI.
+<h5>Encode a video sequence for the iPpod/iPhone</h5>
+<pre>ffmpeg -i source_video.avi input -acodec aac -ab 128kb -vcodec mpeg4 -b 1200kb -mbd 2 -flags +4mv+trell -aic 2 -cmp 2 -subcmp 2 -s 320x180 -title X final_video.mp4</pre>
+Explanations :
+<ul>
+	<li>Source : source_video.avi</li>
+	<li>Audio codec : aac</li>
+	<li>Audio bitrate : 128kb/s</li>
+	<li>Video codec : mpeg4</li>
+	<li>Video bitrate : 1200kb/s</li>
+	<li>Video size : 320px par 180px</li>
+	<li>Generated video : final_video.mp4</li>
+</ul>
+<h5>Encode video for the PSP</h5>
+<pre>ffmpeg -i source_video.avi -b 300 -s 320x240 -vcodec xvid -ab 32 -ar 24000 -acodec aac final_video.mp4</pre>
+Explanations :
+<ul>
+	<li>Source : source_video.avi</li>
+	<li>Audio codec : aac</li>
+	<li>Audio bitrate : 32kb/s</li>
+	<li>Video codec : xvid</li>
+	<li>Video bitrate : 1200kb/s</li>
+	<li>Video size : 320px par 180px</li>
+	<li>Generated video : final_video.mp4</li>
+</ul>
+<h5>Extracting sound from a video, and save it as Mp3</h5>
+<pre>ffmpeg -i source_video.avi -vn -ar 44100 -ac 2 -ab 192 -f mp3 sound.mp3</pre>
+Explanations :
+<ul>
+	<li>Source video : source_video.avi</li>
+	<li>Audio bitrate : 192kb/s</li>
+	<li>output format : mp3</li>
+	<li>Generated sound : sound.mp3</li>
+</ul>
+<h5>Convert a wav file to Mp3</h5>
+<pre>ffmpeg -i son_origine.avi -vn -ar 44100 -ac 2 -ab 192 -f mp3 son_final.mp3</pre>
+<h5>Convert .avi video to .mpg</h5>
+<pre>ffmpeg -i video_origine.avi video_finale.mpg</pre>
+<h5>Convert .mpg to .avi</h5>
+<pre>ffmpeg -i video_origine.mpg video_finale.avi</pre>
+<h5>Convert .avi to animated gif(uncompressed)</h5>
+<pre>ffmpeg -i video_origine.avi gif_anime.gif</pre>
+<h5>Mix a video with a sound file</h5>
+<pre>ffmpeg -i son.wav -i video_origine.avi video_finale.mpg</pre>
+<h5>Convert .avi to .flv</h5>
+<pre>ffmpeg -i video_origine.avi -ab 56 -ar 44100 -b 200 -r 15 -s 320x240 -f flv video_finale.flv</pre>
+<h5>Convert .avi to dv</h5>
+<pre>ffmpeg -i video_origine.avi -s pal -r pal -aspect 4:3 -ar 48000 -ac 2 video_finale.dv</pre>
+Or:
+<pre>ffmpeg -i video_origine.avi -target pal-dv video_finale.dv</pre>
+<h5>Convert .avi to mpeg for dvd players</h5>
+<pre>ffmpeg -i source_video.avi -target pal-dvd -ps 2000000000 -aspect 16:9 finale_video.mpeg</pre>
+Explanations :
+<ul>
+	<li>target pal-dvd : Output format</li>
+	<li>ps 2000000000 maximum size for the output file, in bits (here, 2 Gb)</li>
+	<li>aspect 16:9 : Widescreen</li>
+</ul>
+<h5>Compress .avi to divx</h5>
+<pre>ffmpeg -i video_origine.avi -s 320x240 -vcodec msmpeg4v2 video_finale.avi</pre>
+<h5>Compress Ogg Theora to Mpeg dvd</h5>
+<pre>ffmpeg -i film_sortie_cinelerra.ogm -s 720x576 -vcodec mpeg2video -acodec mp3 film_termine.mpg</pre>
+<h5>Compress .avi to SVCD mpeg2</h5>
+NTSC format:
+<pre>ffmpeg -i video_origine.avi -target ntsc-svcd video_finale.mpg</pre>
+PAL format:
+<pre>ffmpeg -i video_origine.avi -target pal-svcd video_finale.mpg</pre>
+<h5>Compress .avi to VCD mpeg2</h5>
+NTSC format:
+<pre>ffmpeg -i video_origine.avi -target ntsc-vcd video_finale.mpg</pre>
+PAL format:
+<pre>ffmpeg -i video_origine.avi -target pal-vcd video_finale.mpg</pre>
+<h5>Multi-pass encoding with ffmpeg</h5>
+<pre>ffmpeg -i fichierentree -pass 2 -passlogfile ffmpeg2pass fichiersortie-2</pre>
