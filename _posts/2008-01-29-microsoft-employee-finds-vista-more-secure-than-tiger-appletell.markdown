@@ -17,5 +17,5 @@ We've heard this before.    Ie is more secure than firefox.  XP is more secure t
 
 But as I  said.  You dont get talk about your security being better than anybody until you  can create an os that cant be compromised by an mp3 player or instant messenger.
 
-<a href="http://opsamericas.com/?p=565">Vista is Most Secure OS: I Canâ€™t Stop Laughingâ€¦</a>
+<a href="http://opsamericas.com/?p=565">Vista is Most Secure OS: I Canâ€™t Stop Laughing</a>
 

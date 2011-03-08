@@ -14,11 +14,11 @@ Found this nice summary of ffmpeg commands on catswhocode.com:
 <h5>Turn X images to a video sequence</h5>
 <pre>ffmpeg -f image2 -i image%d.jpg video.mpg</pre>
 This command will transform all the images from the current
-directory (named image1.jpg, image2.jpg, etcâ€¦) to a video file named
+directory (named image1.jpg, image2.jpg, etc) to a video file named
 video.mpg.
 <h5>Turn a video to X images</h5>
 <pre>ffmpeg -i video.mpg image%d.jpg</pre>
-This command will generate the files named image1.jpg, image2.jpg, â€¦
+This command will generate the files named image1.jpg, image2.jpg, 
 
 The following image formats are also availables : PGM, PPM, PAM, PGMYUV, JPEG, GIF, PNG, TIFF, SGI.
 <h5>Encode a video sequence for the iPpod/iPhone</h5>

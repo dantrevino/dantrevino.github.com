@@ -2,11 +2,18 @@
 layout: default
 title: Dan Trevino
 ---
+<div class="elevencol">
 <p>
 {% for post in site.posts limit:5 %}
 <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-{{ post.content }}
+<div class="postcontent">
+  {{ post.content }}
+</div>
 <em>Posted on {{ post.date | date_to_long_string }}. Tagged: {{ post.tag }}</em>
 {% endfor %}
 </p>
+</div>
+<div class="onecol last">
+sidebar
+</div>
 
