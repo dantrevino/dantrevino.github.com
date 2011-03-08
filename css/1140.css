@@ -80,9 +80,9 @@ max-width: 100%;
 }
 
 .post-content {
-  padding: left 10px;
+  padding-left 10px;
 }
 
 em {
-    font-size: .5em;
+    font-size: .8em;
   }
