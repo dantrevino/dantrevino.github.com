@@ -78,3 +78,11 @@ margin-right: 0px;
 img, object, embed {
 max-width: 100%;
 }
+
+.post-content {
+  padding: left 10px;
+}
+
+em {
+    font-size: .5em;
+  }
