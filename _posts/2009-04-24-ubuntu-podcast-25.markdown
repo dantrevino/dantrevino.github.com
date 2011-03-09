@@ -1,8 +1,7 @@
 --- 
-wordpress_id: "263"
 layout: blog_post
 title: "Ubuntu Podcast #25"
-wordpress_url: http://wrevolution.org/2009/04/24/ubuntu-podcast-25/
+category: ubuntu podcast community
 ---
 I just got around to watching Ubuntu Podcast #25 last night.  Outside of the ugly logo on Josh's laptop, it was great!
 

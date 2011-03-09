@@ -1,8 +1,7 @@
 --- 
-wordpress_id: "154"
 layout: blog_post
 title: "Ubuntu Podcast #17"
-wordpress_url: http://wrevolution.org/?p=154
+category: ubuntu community podcast
 ---
 Ubuntu podcast #17 is out.  <a href="http://ubuntupodcast.net">Watch Josh &amp; Nick get jiggy wit' it</a>.
 

@@ -1,8 +1,7 @@
 --- 
-wordpress_id: "320"
 layout: blog_post
 title: "*sigh* mono noise"
-wordpress_url: http://wrevolution.org/?p=320
+category: ubuntu 
 ---
 I didnt use to hate mono, but every time Jo Shields talks i edge closer in that direction.  Insulting people while chiding them for insulting people is inane.  Hiding the insult behind sarcasm isn't very creative or particularly intelligent.
 

@@ -1,8 +1,7 @@
 --- 
-wordpress_id: "137"
 layout: blog_post
 title: Great LoCo Team Meeting Tonight
-wordpress_url: http://wrevolution.org/?p=137
+category: ubuntu community
 ---
 We had a great team meeting tonight.  We had a few new people show up, and a few older members as well.
 

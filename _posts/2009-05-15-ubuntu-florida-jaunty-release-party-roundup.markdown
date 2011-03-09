@@ -1,8 +1,7 @@
 --- 
-wordpress_id: "279"
 layout: blog_post
 title: Ubuntu Florida Jaunty Release Party Roundup
-wordpress_url: http://wrevolution.org/?p=279
+category: ubuntu community
 ---
 Pictures are finally available from the Jaunty release parties held across Florida!  We had a great release party cycle this time around.
 

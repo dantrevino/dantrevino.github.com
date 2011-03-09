@@ -1,16 +1,7 @@
 --- 
-wordpress_id: "262"
 layout: blog_post
 title: rockin' the ubuntu shirt
-wordpress_url: http://wrevolution.org/2009/04/23/262/
+category: ubuntu
 ---
-<div class="pp_items">
-<div class="pp_item">
-<h4></h4>
-</div>
-<div class="pp_item">
-<h4>
-<div><img src="http://static.pixelpipe.com/f081dcb8-85c7-491a-9f9e-c795eda8a8d5_m.jpg" alt="" /></div></h4>
-</div>
+<div><img src="http://static.pixelpipe.com/f081dcb8-85c7-491a-9f9e-c795eda8a8d5_m.jpg" alt="" /></div>
 <h5>Posted via <a href="http://pixelpipe.com">Pixelpipe</a>.</h5>
-</div>

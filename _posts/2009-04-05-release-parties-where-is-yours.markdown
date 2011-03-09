@@ -1,9 +1,8 @@
 --- 
-wordpress_id: "244"
 layout: blog_post
 title: Release Parties!  Where is yours?
 excerpt: They call us the Ubuntu Florida Local Community team, and we are.  But we're driven by the local activists that make up our team all over the state.
-wordpress_url: http://wrevolution.org/?p=244
+category: ubuntu community
 ---
 They call us the <a href="http://ubuntu-fl.org">Ubuntu <strong>Florida</strong> Local Community</a> team, and we are.  But we're driven by the local activists that make up our team all over the state.
 

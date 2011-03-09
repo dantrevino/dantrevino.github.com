@@ -1,8 +1,7 @@
 --- 
-wordpress_id: "307"
 layout: blog_post
 title: Ubuntu Firefox Search Plugin
-wordpress_url: http://wrevolution.org/?p=307
+category: ubuntu 
 ---
 How to add the search plugin:
 <ol>

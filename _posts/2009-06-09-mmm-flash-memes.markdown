@@ -1,8 +1,7 @@
 --- 
-wordpress_id: "302"
 layout: blog_post
 title: mmm... flash memes
-wordpress_url: http://wrevolution.org/?p=302
+category: meme
 ---
 I dont know whether to be happy or sad:
 

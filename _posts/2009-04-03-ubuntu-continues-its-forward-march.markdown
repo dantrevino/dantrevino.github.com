@@ -1,8 +1,7 @@
 --- 
-wordpress_id: "236"
 layout: blog_post
 title: Ubuntu continues its forward March
-wordpress_url: http://wrevolution.org/2009/04/03/ubuntu-continues-its-forward-march/
+category: ubuntu
 ---
 <a href="http://www.mspmentor.net/2009/04/01/ubuntu-linux-sneaks-into-managed-services-market/">Ubuntu Linux Sneaks Into Managed Services Market | MSPmentor</a>
 

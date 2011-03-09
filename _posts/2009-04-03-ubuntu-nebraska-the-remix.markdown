@@ -1,7 +1,6 @@
 --- 
-wordpress_id: "238"
 layout: blog_post
 title: Ubuntu Nebraska, the Remix
-wordpress_url: http://wrevolution.org/2009/04/03/ubuntu-nebraska-the-remix/
+category: ubuntu community
 ---
 One of the goals of the Ubuntu US team is to support LoCo teams in their drive to become officially 'approved' teams.&nbsp; In addition to advocacy benefits of being active, being an approved team brings with it some very nice benefits, such as an official website, the ability to order CDs and conference packages, and other things.<br /><br />Ubuntu Nebraska has recently rededicated to becoming approved and Dave Thacker is leading the charge.&nbsp; There was a great deal of camaraderie built when Florida was trying to become approved.&nbsp; Those bonds are still very tight.&nbsp; And while Nebraska has some unique challenges, I think its going to be a fun ride.<br /><br />If you're in Nebraska and would like to contribute back to Ubuntu, I suggest you join the Launchpad team, the mailing list, and let Dave know you're interested. <br /><br /><a href="https://launchpad.net/%7Enebraskateam">https://launchpad.net/~nebraskateam</a><br /><a href="https://lists.ubuntu.com/mailman/listinfo/ubuntu-us-ne">https://lists.ubuntu.com/mailman/listinfo/ubuntu-us-ne</a><br /><br />more information:<br /><a href="https//wiki.ubuntu.com/NebraskaTeam">https//wiki.ubuntu.com/NebraskaTeam</a><br /><br /><br />Technorati Tags: <a class="performancingtags" href="http://technorati.com/tag/ubuntu" rel="tag">ubuntu</a>, <a class="performancingtags" href="http://technorati.com/tag/nebraska" rel="tag">nebraska</a><br /><br /><div class="zemanta-pixie"><img class="zemanta-pixie-img" src="http://img.zemanta.com/pixy.gif?x-id=6fe670e4-f2dd-8004-a9b9-fc0331d726a1" /></div>

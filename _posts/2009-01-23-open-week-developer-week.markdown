@@ -1,8 +1,7 @@
 --- 
-wordpress_id: "167"
 layout: blog_post
 title: Open Week and Developer Week Suggestions
-wordpress_url: http://wrevolution.org/?p=167
+category: ubuntu dev communtiy
 ---
 Ubuntu Open Week and Ubuntu Developer Week are great resources for the community and those who wish to become more active.  Now I live in IRC for most of the day, but IRC as a venue is not the most conducive to active learning.
 

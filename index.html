@@ -6,7 +6,7 @@ title: Dan Trevino
 <p>
 {% for post in site.posts limit:10 %}
 <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-<em>Posted on {{ post.date | date_to_long_string }}. Tagged: {{ post.tag }}</em>
+<em>Posted on {{ post.date | date_to_long_string }}. Tagged: {{ post.categories }} </em>
 <div class="postcontent">
   {{ post.content }}
 </div>

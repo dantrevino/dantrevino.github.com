@@ -1,8 +1,7 @@
 --- 
-wordpress_id: "490"
 layout: blog_post
 title: ffmpeg commands
-wordpress_url: http://wrevolution.org/?p=490
+category: linux media
 ---
 Found this nice summary of ffmpeg commands on catswhocode.com:
 <a href="http://www.catswhocode.com/blog/19-ffmpeg-commands-for-all-needs"> http://www.catswhocode.com/blog/19-ffmpeg-commands-for-all-needs</a>

@@ -1,9 +1,7 @@
 --- 
-wordpress_id: "492"
 layout: blog_post
 title: "Florida: Jams and Meetups and Camps! Oh My!"
-wordpress_url: http://wrevolution.org/?p=492
-tags: ubuntu florida
+category: ubuntu florida
 ---
 We had a great LoCo team meeting Tuesday night. We usually do.
 

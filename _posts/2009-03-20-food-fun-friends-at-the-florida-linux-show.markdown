@@ -1,8 +1,7 @@
 --- 
-wordpress_id: "193"
 layout: blog_post
 title: "Food, Fun, Friends at the Florida Linux Show "
-wordpress_url: http://wrevolution.org/?p=193
+category: linux florida-linux-show community
 ---
 The Florida Linux Show happened Monday, March 9 in Jacksonville, and the Ubuntu Florida LoCo was out in force!...as usual.
 

@@ -1,8 +1,7 @@
 --- 
-wordpress_id: "140"
 layout: blog_post
 title: LoCo Folding.... At Home
-wordpress_url: http://wrevolution.org/?p=140
+category: ubuntu community folding-at-home
 ---
 After recently reading Aaron Toponce's mention of contributing to distributed.net, I thought I'd throw down the gauntlet to other LoCo teams for something that we're doing here in Florida.
 

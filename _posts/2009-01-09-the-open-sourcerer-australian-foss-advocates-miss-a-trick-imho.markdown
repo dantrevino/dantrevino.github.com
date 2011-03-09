@@ -1,8 +1,7 @@
 --- 
-wordpress_id: "144"
 layout: blog_post
 title: "The Open Sourcerer: Australian FOSS Advocates Miss-a-Trick (IMHO)"
-wordpress_url: http://wrevolution.org/?p=144
+category: open-source advocacy
 ---
 Alan, without actually trying to dive too deep into this, my main question is:
 

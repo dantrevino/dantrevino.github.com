@@ -1,7 +1,6 @@
 --- 
-wordpress_id: "240"
 layout: blog_post
 title: Breaking News (Not!) - Thin is In!
-wordpress_url: http://wrevolution.org/2009/04/03/breaking-news-not-thin-is-in/
+category: meh
 ---
 <a href="http://www.nytimes.com/2009/04/02/technology/02netbooks.html?pagewanted=1">Thin and Inexpensive Netbooks Affect PC Industry - NYTimes.com</a><br /><br />"Intel and Microsoft warn that consumers should remain skeptical about the performance of a computer that costs less than $300."<br /><br />translation: Microsoft cannot sustain its monopoly position or produce software that performs decently unless you buy $500 worth of hardware.<br /><br />solution: Google Apps, 37signals, DabbleDB, 280 Slides, Zoho, etc, etc.&nbsp; Or build your own on top of Ubuntu's upcoming, built-in, cloud capabilities.<br /><br />We dont have to pay $500 for hardware just to run our $500 software anymore. The web has already won the platform wars.&nbsp; Just keep your document formats based on open standards, and we all win.<br /><blockquote></blockquote>Technorati Tags: <a class="performancingtags" href="http://technorati.com/tag/netbook" rel="tag">netbook</a>, <a class="performancingtags" href="http://technorati.com/tag/microsoft" rel="tag">microsoft</a>, <a class="performancingtags" href="http://technorati.com/tag/intel" rel="tag">intel</a>, <a class="performancingtags" href="http://technorati.com/tag/ubuntu" rel="tag">ubuntu</a>, <a class="performancingtags" href="http://technorati.com/tag/www" rel="tag">www</a><br /><br /><div class="zemanta-pixie"><img class="zemanta-pixie-img" src="http://img.zemanta.com/pixy.gif?x-id=76577010-2fb6-82c9-8bbf-5b8f03ae69bd" /></div>
