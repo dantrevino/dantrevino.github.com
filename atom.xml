@@ -6,6 +6,7 @@ layout: nil
  
  <title>Dan Trevino</title>
  <link href="http://dant.org/atom.xml" rel="self"/>
+ <link href="http://pubsubhubbub.com/" rel="hub" />
  <link href="http://dant.org/"/>
  <updated>{{ site.time | date_to_xmlschema }}</updated>
  <id>http://dant.org/</id>

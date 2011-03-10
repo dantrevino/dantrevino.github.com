@@ -21,36 +21,33 @@ The following image formats are also availables : PGM, PPM, PAM, PGMYUV, JPEG, G
 <h5>Encode a video sequence for the iPod/iPhone</h5>
 <pre>ffmpeg -i source_video.avi input -acodec aac -ab 128kb -vcodec mpeg4 -b 1200kb -mbd 2 -flags +4mv+trell -aic 2 -cmp 2 -subcmp 2 -s 320x180 -title X final_video.mp4</pre>
 Explanations :
-<ul>
-	<li>Source : source_video.avi</li>
-	<li>Audio codec : aac</li>
-	<li>Audio bitrate : 128kb/s</li>
-	<li>Video codec : mpeg4</li>
-	<li>Video bitrate : 1200kb/s</li>
-	<li>Video size : 320px par 180px</li>
-	<li>Generated video : final_video.mp4</li>
-</ul>
+	+ Source : source_video.avi
+	+ Audio codec : aac
+	+ Audio bitrate : 128kb/s
+	+ Video codec : mpeg4
+	+ Video bitrate : 1200kb/s
+	+ Video size : 320px par 180px
+	+ Generated video : final_video.mp4
+
 <h5>Encode video for the PSP</h5>
 <pre>ffmpeg -i source_video.avi -b 300 -s 320x240 -vcodec xvid -ab 32 -ar 24000 -acodec aac final_video.mp4</pre>
 Explanations :
-<ul>
-	<li>Source : source_video.avi</li>
-	<li>Audio codec : aac</li>
-	<li>Audio bitrate : 32kb/s</li>
-	<li>Video codec : xvid</li>
-	<li>Video bitrate : 1200kb/s</li>
-	<li>Video size : 320px par 180px</li>
-	<li>Generated video : final_video.mp4</li>
-</ul>
+	+ Source : source_video.avi
+	+ Audio codec : aac
+	+ Audio bitrate : 32kb/s
+	+ Video codec : xvid
+	+ Video bitrate : 1200kb/s
+	+ Video size : 320px par 180px
+	+ Generated video : final_video.mp4
+
 <h5>Extracting sound from a video, and save it as Mp3</h5>
 <pre>ffmpeg -i source_video.avi -vn -ar 44100 -ac 2 -ab 192 -f mp3 sound.mp3</pre>
 Explanations :
-<ul>
-	<li>Source video : source_video.avi</li>
-	<li>Audio bitrate : 192kb/s</li>
-	<li>output format : mp3</li>
-	<li>Generated sound : sound.mp3</li>
-</ul>
+	+ Source video : source_video.avi
+	+ Audio bitrate : 192kb/s
+	+ output format : mp3
+	+ Generated sound : sound.mp3
+
 <h5>Convert a wav file to Mp3</h5>
 <pre>ffmpeg -i son_origine.avi -vn -ar 44100 -ac 2 -ab 192 -f mp3 son_final.mp3</pre>
 <h5>Convert .avi video to .mpg</h5>
@@ -70,11 +67,10 @@ Or:
 <h5>Convert .avi to mpeg for dvd players</h5>
 <pre>ffmpeg -i source_video.avi -target pal-dvd -ps 2000000000 -aspect 16:9 finale_video.mpeg</pre>
 Explanations :
-<ul>
-	<li>target pal-dvd : Output format</li>
-	<li>ps 2000000000 maximum size for the output file, in bits (here, 2 Gb)</li>
-	<li>aspect 16:9 : Widescreen</li>
-</ul>
+	+ target pal-dvd : Output format
+	+ ps 2000000000 maximum size for the output file, in bits (here, 2 Gb)
+	+ aspect 16:9 : Widescreen
+
 <h5>Compress .avi to divx</h5>
 <pre>ffmpeg -i video_origine.avi -s 320x240 -vcodec msmpeg4v2 video_finale.avi</pre>
 <h5>Compress Ogg Theora to Mpeg dvd</h5>
