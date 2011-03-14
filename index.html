@@ -3,15 +3,15 @@ layout: default
 title: Dan Trevino
 ---
 <div class="ninecol">
-<p>
-{% for post in site.posts limit:10 %}
-<h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-<em>Posted on {{ post.date | date_to_long_string }}. Tagged: {{ post.categories }} </em>
-<div class="postcontent">
-  {{ post.content }}
-</div>
-{% endfor %}
-</p>
+  <p>
+  {% for post in site.posts limit:10 %}
+  <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+  <em>Posted on {{ post.date | date_to_long_string }}. Tagged: {{ post.categories }} </em>
+  <div class="postcontent">
+    {{ post.content }}
+  </div>
+  {% endfor %}
+  </p>
 </div>
 <div class="threecol last">
   <div id="twitter_div">
@@ -20,6 +20,6 @@ title: Dan Trevino
     <script type="text/javascript" src="http://twitter.com/statuses/user_timeline/dantalizing.json?callback=twitterCallback2&amp;count=5"></script>
   </div>
   <div class="floatr mr20">
-    <a href="/archive.html">&laquo; Archives</a>
+    <a href="/archive.html">Archives</a>
   </div>
 </div>
