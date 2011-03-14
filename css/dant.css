@@ -10,3 +10,24 @@ body header#mast {
   -ms-box-shadow: 0 1px 0 black;
   box-shadow: 0 1px 0 black;
 }
+
+body header#mast div.content section#identity {
+  float: left;
+  width: 57px;
+  height: 70px;
+}
+
+div.sitename {
+  top: 11px;
+  left: 63px;
+  font-family: MetaMedRoman, sans-serif;
+  font-size: 28px;
+  letter-spacing: -1px;
+}
+
+div.sitetagline {
+  top: 42px;
+  left: 64px;
+  font-size: 11px;
+}
+
