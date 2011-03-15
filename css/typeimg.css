@@ -5,7 +5,7 @@ margin-bottom: 20px;
 }
 
 body {
-font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+font-family: Ubuntu,Helvetica Neue, Helvetica, Arial, sans-serif;
 font-size: 14px;
 line-height: 24px;		/* Changing this will break the baseline grid. */
 -webkit-text-size-adjust: none;		/* Stops the iPhone scalling type up */
@@ -53,20 +53,20 @@ h1 {
 font-size: 30px;
 line-height: 36px;		/* Changing this will break the baseline grid. */
 margin-bottom: 24px;	/* Changing this will break the baseline grid. */
-font-family: Georgia;
+font-family: Ubuntu;
 font-weight: lighter;
 }
 
 h2 {
 font-size: 20px;
 margin-bottom: 24px;	/* Changing this will break the baseline grid. */
-font-family: Georgia, serif;
+font-family: Ubuntu, serif;
 font-weight: lighter;
 }
 
 h3 {
 font-size: 16px;
 margin-bottom: 24px;	/* Changing this will break the baseline grid. */
-font-family: Georgia, serif;
+font-family: Ubuntu, serif;
 font-weight: lighter;
 }
