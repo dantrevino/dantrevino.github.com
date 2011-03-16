@@ -23,18 +23,23 @@ div.content section#identity {
 
 .sitename {
   top: 11px;
-  left: 63px;
+  right: 10px;
   font-family: MetaMedRoman, sans-serif;
   font-size: 28px;
   letter-spacing: -1px;
   color: white;
+
+  /*position: relative;
+   * z-index: 2;*/
 }
 
 .sitetagline {
   top: 42px;
-  left: 64px;
+  right: 10px;
   font-size: 11px;
   color: white;
+  /*position: relative;
+   * z-index: 1;*/
 }
 
 #navlist li
