@@ -1,6 +1,6 @@
 /* Layout for desktop version */
 
-}div.header {
+.header {
   z-index: 100;
   width: 100%;
   height: 70px;
