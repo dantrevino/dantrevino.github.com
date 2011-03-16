@@ -21,7 +21,7 @@ div.content section#identity {
 
 }
 
-div.sitename {
+.sitename {
   top: 11px;
   left: 63px;
   font-family: MetaMedRoman, sans-serif;
@@ -30,7 +30,7 @@ div.sitename {
   color: white;
 }
 
-div.sitetagline {
+.sitetagline {
   top: 42px;
   left: 64px;
   font-size: 11px;
